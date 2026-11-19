@@ -1,0 +1,6 @@
+{
+  "name": "Park Smart",
+  "description": "DAA-based Smart Parking Allocation and Route Optimization System using C++17 algorithms and PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
